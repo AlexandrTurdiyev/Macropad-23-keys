@@ -15,13 +15,15 @@
 - Возможность выгружать и загружать файлы раскладок и пользовательских макросов. Примечание: быстрые макросы также можно выгружать и загружать, но только с использованием [bootmapper-client_0.9.0](software/bootmapper-client_0.9.0/). Данную функциональность производитель макропада в своём прогрммном обеспечении "AMAG" не предусмотрел.
 
 ## Программное обеспечение
+- Каталог с ПО: [Software](software/)
+
 От производителя:
-- [amag_en](software/amag_en/) для Windows (англ.)
-- [amag.app](software/amag.app/) для MacOS (не проверено)
-- [amag_jp](software/amag_jp/) для Windows (япон.)
+- [amag_en](software/amag_en.zip) для Windows (англ.)
+- [amag.app](software/amag.app.zip) для MacOS (не проверено)
+- [amag_jp](software/amag_jp.zip) для Windows (япон.)
 
 Другое:
-- [bootmapper-client_0.9.0](software/bootmapper-client_0.9.0/) для Windows (англ.)
+- [bootmapper-client_0.9.0](software/bootmapper-client_0.9.0.zip) для Windows (англ.)
 
 ## Инструкции
 - Инструкция от производителя (на англ. языке) [macropad-23-keys_mfr-user-guide.pdf](software/macropad-23-keys_mfr-user-guide.pdf)
