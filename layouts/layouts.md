@@ -28,6 +28,8 @@
 8. BackSpace
     - `[5 %]` `[row1_col6]` | -
      - `LCtrl + LShift + V`
+9. Enter
+    - `[0 Ins]` `[row4_col6]` | `Enter`
 
 #### FN
 ...
