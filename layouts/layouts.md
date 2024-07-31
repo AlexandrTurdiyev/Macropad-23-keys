@@ -24,6 +24,9 @@
 7. Вставить без форматирования
     - `[S]` `[row3_col4]` | QckMac7
      - `LCtrl + LShift + V`
+8. BackSpace
+    - `[5 %]` `[row1_col6]` | -
+     - `LCtrl + LShift + V`
 
 ## FN
 ...
